@@ -1,0 +1,8 @@
+// Is the number even or odd?
+
+const char * even_or_odd(int number){
+if (number % 2 == 0){
+ return "Even";
+}
+else return "Odd";
+}
